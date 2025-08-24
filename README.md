@@ -80,6 +80,36 @@ This project is a comprehensive simulation of a real-world application developme
 
 ---
 
+## UI/UX Design Planning
+### Design Goals
+* Create intuitive booking flow
+* Maintain visual consistency
+* Ensure fast loading times
+* Prioritize mobile responsiveness
+
+### Key Features
+* Property search and filtering
+* Detailed property viewing
+* Secure checkout process
+* User authentication
+
+## Project Roles and Responsibilities
+* **Project Manager:**	Oversees timeline, coordinates team, manages deliverables
+
+* **Frontend Developers:**	Implements UI components, ensures responsive design
+
+* **Backend Developers:**	Builds APIs, manages database, implements business logic
+
+* **Designers:**	Creates mockups, maintains design system, ensures UX quality
+
+* **QA/Testers:**	Writes test cases, performs testing, reports bugs
+
+* **DevOps Engineers:**	 Manages deployment, CI/CD pipeline, server infrastructure
+
+* **Product Owner:**	Defines requirements, prioritizes features, represents stakeholders
+
+* **Scrum Master:**	 Facilitates agile processes, removes blockers, organizes meetings
+
 ## Feature Breakdown
 
 * **User Management:** Users can create accounts and log in. There will also be a distinction between property owners and renters.
