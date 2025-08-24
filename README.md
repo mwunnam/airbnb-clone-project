@@ -92,7 +92,7 @@ This project is a comprehensive simulation of a real-world application developme
 * Secure checkout process
 * User authentication
 
-## UI components Patterns
+## UI component Patterns
 
 ### Planned Components
 1. Navbar
