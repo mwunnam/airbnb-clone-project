@@ -25,7 +25,6 @@ This project is a comprehensive simulation of a real-world application developme
 ---
 
 ## Team Roles
-
 * **Backend Developer:** Responsible for creating the API endpoints, database schemas, and application logic.
 
 * **Database Administrator:** Manages the database, optimizes it through indexing and proper design.
@@ -92,6 +91,27 @@ This project is a comprehensive simulation of a real-world application developme
 * Detailed property viewing
 * Secure checkout process
 * User authentication
+
+## UI components Patterns
+
+### Planned Components
+1. Navbar
+* Logo
+* Search bar
+* User navigation
+* Responsive menu
+* Property Card
+
+2. Property image
+* Basic details (price, location, rating)
+* Favorite button
+* Responsive layout
+* Footer
+
+3. Site links
+* Company information
+* Social media links
+* Copyright information
 
 ## Project Roles and Responsibilities
 * **Project Manager:**	Oversees timeline, coordinates team, manages deliverables
